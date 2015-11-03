@@ -1,0 +1,13 @@
+{
+    "name"         : "Number::RGB",
+    "version"      : "1.001001",
+    "description"  : "Manipulate RGB Colour Tuples",
+    "depends"      : [ ],
+    "test-depends" : [ "Test" ],
+    "provides"     : {
+        "Number::RGB" : "lib/Number/RGB.pm6"
+    },
+    "author"       : "Zoffix Znet",
+    "authority"    : "zoffixznet",
+    "source-url"   : "git://github.com/zoffixznet/perl6-Number-RGB.git"
+}
