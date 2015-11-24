@@ -1,5 +1,5 @@
 use v6;
-class class Number::RGB:version<1.001001> {
+class class Number::RGB:ver<1.001001> {
     has Int $.r = 0;
     has Int $.g = 0;
     has Int $.b = 0;
